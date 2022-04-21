@@ -1,0 +1,9 @@
+node_modules
+.next
+*.swp
+report.*
+*.log
+stub-api
+.idea
+.vscode/
+.DS_Store
